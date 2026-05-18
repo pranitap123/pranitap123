@@ -69,11 +69,11 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranitap123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitap123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitap123&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
@@ -87,10 +87,10 @@ const developer = {
 
 ---
 
-## 📅 3D Contribution Calendar
+## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/profile-south-season-animate.svg?username=pranitap123" alt="3D Contribution Calendar"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitap123&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
