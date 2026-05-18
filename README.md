@@ -98,10 +98,8 @@ const developer = {
 ## ⏱️ WakaTime Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=pranitap123&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=pranitap&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
 </div>
-
-> **Setup:** Install the [WakaTime plugin](https://wakatime.com/vs-code) in VS Code, create a free account at [wakatime.com](https://wakatime.com), and update your WakaTime username in the URL above. Stats appear automatically after a few coding sessions.
 
 ---
 
