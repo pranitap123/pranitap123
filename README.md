@@ -95,14 +95,21 @@ const developer = {
 
 ---
 
-## ⏱️ WakaTime Coding Stats
+## ⏱️ WakaTime Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pranitap&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
+
+<h3>📈 Coding Activity</h3>
+
+<img src="https://wakatime.com/share/@pranitap/80a6edc1-0607-4b94-a157-164c0c5b2e0c.svg" width="95%" alt="Coding Activity"/>
+
+<br/><br/>
+
+<h3>💻 Language Usage</h3>
+
+<img src="https://wakatime.com/share/@pranitap/f6b83c98-0cf5-46c5-86e6-885e616cd670.svg" width="95%" alt="Language Usage"/>
+
 </div>
-
-> **Setup:** Install the [WakaTime plugin](https://wakatime.com/vs-code) in VS Code, create a free account at [wakatime.com](https://wakatime.com), and update your WakaTime username in the URL above. Stats appear automatically after a few coding sessions.
-
 ---
 
 ## 🚀 Featured Projects
