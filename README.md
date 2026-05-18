@@ -95,48 +95,13 @@ const developer = {
 
 ---
 
-## 🕹️ Pac-Man Contribution Graph
+## ⏱️ WakaTime Coding Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranitap123/pranitap123/output/pacman-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranitap123/pranitap123/output/pacman.svg"/>
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/pranitap123/pranitap123/output/pacman.svg"/>
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=pranitap123&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
 </div>
 
-<details>
-<summary>⚙️ Setup Pac-Man (click to expand)</summary>
-
-Create `.github/workflows/pacman.yml` in your profile repo:
-
-```yaml
-name: Generate Pac-Man
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: pranitap123
-          outputs: |
-            dist/pacman.svg?color_snake=yellow&color_dot_empty=#eee&color_dot_filled=#58A6FF&type=pacman
-            dist/pacman-dark.svg?color_snake=yellow&color_dot_empty=#21262d&color_dot_filled=#58A6FF&type=pacman
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Pac-Man → Run workflow** to trigger it manually the first time.
-
-</details>
+> **Setup:** Install the [WakaTime plugin](https://wakatime.com/vs-code) in VS Code, create a free account at [wakatime.com](https://wakatime.com), and update your WakaTime username in the URL above. Stats appear automatically after a few coding sessions.
 
 ---
 
