@@ -95,19 +95,11 @@ const developer = {
 
 ---
 
-## ⏱️ WakaTime Analytics
+## ⏱️ WakaTime Coding Activity
 
 <div align="center">
 
-<h3>📈 Coding Activity</h3>
-
-<img src="https://wakatime.com/share/@pranitap/80a6edc1-0607-4b94-a157-164c0c5b2e0c.svg" width="95%" alt="Coding Activity"/>
-
-<br/><br/>
-
-<h3>💻 Language Usage</h3>
-
-<img src="https://wakatime.com/share/@pranitap/f6b83c98-0cf5-46c5-86e6-885e616cd670.svg" width="95%" alt="Language Usage"/>
+<img src="https://wakatime.com/share/@pranitap/80a6edc1-0607-4b94-a157-164c0c5b2e0c.svg" width="50%" alt="Coding Activity"/>
 
 </div>
 ---
