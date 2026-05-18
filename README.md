@@ -105,6 +105,39 @@ const developer = {
   </picture>
 </div>
 
+<details>
+<summary>⚙️ Setup Pac-Man (click to expand)</summary>
+
+Create `.github/workflows/pacman.yml` in your profile repo:
+
+```yaml
+name: Generate Pac-Man
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: pranitap123
+          outputs: |
+            dist/pacman.svg?color_snake=yellow&color_dot_empty=#eee&color_dot_filled=#58A6FF&type=pacman
+            dist/pacman-dark.svg?color_snake=yellow&color_dot_empty=#21262d&color_dot_filled=#58A6FF&type=pacman
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions → Generate Pac-Man → Run workflow** to trigger it manually the first time.
+
+</details>
+
 ---
 
 ## 🚀 Featured Projects
@@ -113,8 +146,8 @@ const developer = {
 
 | 🔐 SecureVault Backend | ⚖️ JuriSynth AI | 📈 DCA Investment Bot |
 |---|---|---|
-| Encrypted file storage API with zero-knowledge architecture, role-based access control, and file upload/download APIs | AI-powered legal research assistant with document analysis and case summarization capabilities | Automated dollar-cost averaging DApp for decentralized investment management on the blockchain |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) |
+| Encrypted file storage API with zero-knowledge architecture, role-based access control, and file upload/download APIs | AI-powered legal research assistant with document analysis and case summarization capabilities | Production-grade decentralized Auto DCA app on Solana — automated token swaps via Jupiter V6 with on-chain scheduling |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) ![Anchor](https://img.shields.io/badge/Anchor-6E56CF?style=flat-square&logo=anchor&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | [View Repo →](https://github.com/pranitap123/securevault-backend) | [View Repo →](https://github.com/pranitap123/Jurisynth-AI) | [View Repo →](https://github.com/pranitap123/Automated-Investment-DCA-Bot-Dapp) |
 
 </div>
