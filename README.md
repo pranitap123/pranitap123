@@ -95,10 +95,10 @@ const developer = {
 
 ---
 
-## ⏱️ WakaTime Languages
+## ⏱️ WakaTime Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@pranitap/a860fbec-94bb-4e04-8758-e71cff8342e1.svg" width="65%" alt="WakaTime Languages"/>
+  <img src="https://wakatime.com/share/@pranitap/a932d141-ec9b-4893-881b-775a3f6184f4.svg" width="45%" alt="WakaTime Coding Activity"/>
 </div>
 
 ---
