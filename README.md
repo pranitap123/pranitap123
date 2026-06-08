@@ -98,7 +98,7 @@ const developer = {
 ## ⏱️ WakaTime Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@pranitap/a932d141-ec9b-4893-881b-775a3f6184f4.svg" width="45%" alt="WakaTime Coding Activity"/>
+  <img src="https://wakatime.com/share/@pranitap/a932d141-ec9b-4893-881b-775a3f6184f4.svg" width="70%" alt="WakaTime Coding Activity"/>
 </div>
 
 ---
