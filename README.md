@@ -71,7 +71,7 @@ const developer = {
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitap123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitap123&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=pranitap123&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 
@@ -95,13 +95,12 @@ const developer = {
 
 ---
 
-## ⏱️ WakaTime Coding Activity
+## ⏱️ WakaTime Languages
 
 <div align="center">
-
-<img src="https://wakatime.com/share/@pranitap/80a6edc1-0607-4b94-a157-164c0c5b2e0c.svg" width="50%" alt="Coding Activity"/>
-
+  <img src="https://wakatime.com/share/@pranitap/a860fbec-94bb-4e04-8758-e71cff8342e1.svg" width="65%" alt="WakaTime Languages"/>
 </div>
+
 ---
 
 ## 🚀 Featured Projects
