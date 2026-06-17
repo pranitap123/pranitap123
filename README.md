@@ -123,7 +123,8 @@ const developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranita-panchal-5b9b3b281)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pra97754)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranita-portfolio-ruby.vercel.app)
+[![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://github.com/pranitap123/system-design-engineering)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranitapanchal339@gmail.com)
 
 </div>
