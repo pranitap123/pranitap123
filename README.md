@@ -79,11 +79,12 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧱 Development Metrics & Architecture Graph
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranitap123&theme=algolia&no-frame=true&column=7&margin-w=6" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&border_color=30363d&langs_count=6" width="49%" alt="Top Languages Panel"/>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=pranitap123&theme=dark" width="49%" alt="3D Architecture Contribution Graph Rendering"/>
+</p>
 
 ---
 
