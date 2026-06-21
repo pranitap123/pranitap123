@@ -87,8 +87,6 @@ const developer = {
 
 </div>
 
----
-
 ## 📈 Contribution Activity Graph
 
 <div align="center">
