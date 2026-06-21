@@ -24,7 +24,7 @@ const developer = {
   role:            "Backend Developer & DevOps Engineer",
   stack:           ["TypeScript", "Node.js", "PostgreSQL", "Docker", "AWS"],
   architecture:    ["Microservices", "REST APIs", "Zero-Knowledge Encryption", "CI/CD Pipelines"],
-  currentFocus:    "Optimizing data layers, database transaction scaling, and container orchestration",
+  currentFocus:    "Scaling high-throughput data ingestion, distributed systems, and container orchestration.",
   engineeringRule: "If it isn't tested and automated in a pipeline, it doesn't work.",
 };
 ```
@@ -35,6 +35,16 @@ const developer = {
 - 📫 Reach me at **pranitapanchal339@gmail.com**
 - 🤝 Open to **high-growth remote engineering roles and infrastructure scaling collaborations**
 
+---
+## 🏆 Achievements & Research
+
+#### 🏛️ iDEA 2.0 National Finalist — Union Bank of India (2026)
+* **System Engine:** Engineered **ARGUS-PRISM**, a distributed pre-crime mule account detection system designed to intercept illicit funds up to 72 hours before clearing.
+* **Impact & Ingestion Scale:** Selected as a National Finalist out of **1,500+ competing teams** across India utilizing data matching RBI compliance patterns. Presented system architecture schemas to banking technology executives.
+
+#### 📝 Research Publication: Jurisynth Optimization — IJSREM Journal (Vol. 10, Issue 6)
+* **Core Contribution:** Primary co-author of research introducing a domain-adaptive text processing framework combining system routing optimization and data ingestion pipelines.
+* **Performance Benchmarks:** Documented strict system constraints achieving a **0.34 compression ratio**, **86% deterministic fact retention**, and a **0.90 explainability score** utilizing FAISS vector search.
 ---
 
 ## 🛠️ Tech Stack
@@ -76,17 +86,6 @@ const developer = {
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
-
----
-## 🏆 Achievements & Research
-
-#### 🏛️ iDEA 2.0 National Finalist — Union Bank of India (2026)
-* **System Engine:** Engineered **ARGUS-PRISM**, a distributed pre-crime mule account detection system designed to intercept illicit funds up to 72 hours before clearing.
-* **Impact & Ingestion Scale:** Selected as a National Finalist out of **1,500+ competing teams** across India utilizing data matching RBI compliance patterns. Presented system architecture schemas to banking technology executives.
-
-#### 📝 Research Publication: Jurisynth Optimization — IJSREM Journal (Vol. 10, Issue 6)
-* **Core Contribution:** Primary co-author of research introducing a domain-adaptive text processing framework combining system routing optimization and data ingestion pipelines.
-* **Performance Benchmarks:** Documented strict system constraints achieving a **0.34 compression ratio**, **86% deterministic fact retention**, and a **0.90 explainability score** utilizing FAISS vector search.
 ---
 
 ## 📈 Contribution Activity Graph
