@@ -86,6 +86,7 @@ const developer = {
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
+
 ---
 
 ## 📈 Contribution Activity Graph
