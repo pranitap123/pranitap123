@@ -118,13 +118,6 @@ const developer = {
 ## ⏱️ WakaTime Coding Activity
 
 <div align="center">
-  <!-- CodeTime Badge -->
-  <a href="https://codetime.dev">
-    <img src="https://img.shields.io/endpoint?url=https://api.codetime.dev/badge/YOUR_CODETIME_USER_ID" alt="CodeTime Badge"/>
-  </a>
-  
-  <br/><br/>
-  
   <img src="https://wakatime.com/share/@pranitap/a932d141-ec9b-4893-881b-775a3f6184f4.svg" width="75%" alt="WakaTime Coding Activity"/>
 </div>
 
