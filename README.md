@@ -74,16 +74,36 @@ const developer = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
+
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitap123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+
+</td>
+
+<td align="center" valign="middle">
+
+<a href="https://codetime.dev">
+  <img
+    src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37377"
+    alt="CodeTime Badge"
+  />
+</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitap123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=pranitap123&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak"/>
+<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=pranitap123&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
