@@ -76,28 +76,11 @@ const developer = {
 ---
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td>
+<div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitap123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 
-</td>
-
-<td align="center" valign="middle">
-
-<a href="https://codetime.dev">
-  <img
-    src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37377"
-    alt="CodeTime Badge"
-  />
-</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+</div>
 
 <div align="center">
 
