@@ -43,13 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitap123&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
----
-
-## ⏱️ WakaTime Coding Activity
-
-<div align="center">
-  <img src="https://wakatime.com/share/@pranitap/a932d141-ec9b-4893-881b-775a3f6184f4.svg" width="75%" alt="WakaTime Coding Activity"/>
-</div>
 
 ---
 
