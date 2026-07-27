@@ -36,15 +36,11 @@ const developer = {
 - 🤝 Open to **high-growth remote engineering roles and infrastructure scaling collaborations**
 
 ---
-## 🏆 Achievements & Research
+## 🏆 Achievements 
 
 #### 🏛️ iDEA 2.0 National Finalist — Union Bank of India (2026)
 * **System Engine:** Engineered **ARGUS-PRISM**, a distributed pre-crime mule account detection system designed to intercept illicit funds up to 72 hours before clearing.
 * **Impact & Ingestion Scale:** Selected as a National Finalist out of **1,500+ competing teams** across India utilizing data matching RBI compliance patterns. Presented system architecture schemas to banking technology executives.
-
-#### 📝 Research Publication: Jurisynth Optimization — IJSREM Journal (Vol. 10, Issue 6)
-* **Core Contribution:** Primary co-author of research introducing a domain-adaptive text processing framework combining system routing optimization and data ingestion pipelines.
-* **Performance Benchmarks:** Documented strict system constraints achieving a **0.34 compression ratio**, **86% deterministic fact retention**, and a **0.90 explainability score** utilizing FAISS vector search.
 ---
 
 ## 🛠️ Tech Stack
