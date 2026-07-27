@@ -8,32 +8,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranitap123&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/pranitap123?style=flat-square&color=58A6FF&label=Followers)](https://github.com/pranitap123)
 
 </div>
 
----
 
-## 👩‍💻 About Me
-
-```typescript
-const developer = {
-  name:            "Pranita Panchal",
-  location:        "Pune, Maharashtra 🇮🇳",
-  role:            "Backend Developer & DevOps Engineer",
-  stack:           ["TypeScript", "Node.js", "PostgreSQL", "Docker", "AWS"],
-  architecture:    ["Microservices", "REST APIs", "Zero-Knowledge Encryption", "CI/CD Pipelines"],
-  currentFocus:    "Scaling high-throughput data ingestion, distributed systems, and container orchestration.",
-  engineeringRule: "If it isn't tested and automated in a pipeline, it doesn't work.",
-};
-```
-
-- 🔭 Currently working on **[SecureVault Protocol](https://github.com/pranitap123/securevault-backend)**
-- 🌱 Deepening expertise in **System Design, Linux Internals, and Container Orchestration (Kubernetes)**
-- 💬 Ask me about **TypeScript performance, Database Optimization, CI/CD Automation, and Robust REST APIs**
-- 📫 Reach me at **pranitapanchal339@gmail.com**
-- 🤝 Open to **high-growth remote engineering roles and infrastructure scaling collaborations**
 
 ---
 ## 🏆 Achievements 
@@ -41,33 +19,6 @@ const developer = {
 #### 🏛️ iDEA 2.0 National Finalist — Union Bank of India (2026)
 * **System Engine:** Engineered **ARGUS-PRISM**, a distributed pre-crime mule account detection system designed to intercept illicit funds up to 72 hours before clearing.
 * **Impact & Ingestion Scale:** Selected as a National Finalist out of **1,500+ competing teams** across India utilizing data matching RBI compliance patterns. Presented system architecture schemas to banking technology executives.
----
-
-## 🛠️ Tech Stack
-
-**Backend & Data Core**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Frontend Support**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 ## 📊 GitHub Stats
