@@ -17,10 +17,10 @@
 ## 🏆 Achievements 
 
 #### 🏛️ iDEA 2.0 National Finalist — Union Bank of India (2026)
-* **System Engine:** Engineered **ARGUS-PRISM**, a distributed pre-crime mule account detection system designed to intercept illicit funds up to 72 hours before clearing.
-* **Impact & Ingestion Scale:** Selected as a National Finalist out of **1,500+ competing teams** across India utilizing data matching RBI compliance patterns. Presented system architecture schemas to banking technology executives.
+- **System Engine:** Engineered **ARGUS-PRISM**, a distributed pre-crime mule account detection system designed to intercept illicit funds up to 72 hours before clearing.
+- **Impact & Ingestion Scale:** Selected as a National Finalist out of **1,500+ competing teams** across India utilizing data matching RBI compliance patterns. Presented system architecture schemas to banking technology executives.
 
-### 🚀 National-Level Odoo Hackathon Finalist (2025)
+### 🚀 National-Level Odoo Hackathon Finalist (2026)
 - **Project:** Built **AssetFlow**, an enterprise asset lifecycle management platform.
 - **Achievement:** Advanced to the final round after clearing the virtual round among **20,000+ applicants** in the National-Level Odoo Hackathon.
 ---
