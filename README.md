@@ -39,14 +39,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranitap123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitap123&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="100%" alt="Contribution Activity Graph"/>
-</div>
-
-
 ---
 
 ## 🚀 Featured Projects
